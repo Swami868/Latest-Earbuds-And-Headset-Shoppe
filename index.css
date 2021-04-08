@@ -1,0 +1,73 @@
+body {
+    background-color: chartreuse;
+}
+
+.head1 {
+    colour: blue;
+    font-size: 60px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.head2 {
+    colour: blue;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#image1{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+#image2{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+#image3{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+#image4{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+#div1{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    overflow: auto;
+}
+
+#div2{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    overflow: auto;
+}
+
+#div3{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    overflow: auto;
+}
+
+#div4{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    overflow: auto;
+}
+
+.boat{
+    display: flex;
+}
