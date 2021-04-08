@@ -1,5 +1,5 @@
 body {
-    background-color: chartreuse;
+    background-color: yellow;
 }
 
 .head1 {
@@ -40,6 +40,30 @@ body {
     border-radius: 30%;
 }
 
+#image5{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+#image6{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+#image7{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+#image8{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
 #div1{
     height: 300px;
     width: 300px;
@@ -68,6 +92,38 @@ body {
     overflow: auto;
 }
 
+#div5{
+    height: 300px;
+    width: 300px;
+    background-color:red;
+    overflow: auto;
+}
+
+#div6{
+    height: 300px;
+    width: 300px;
+    background-color:red;
+    overflow: auto;
+}
+
+#div7{
+    height: 300px;
+    width: 300px;
+    background-color:red;
+    overflow: auto;
+}
+
+#div8{
+    height: 300px;
+    width: 300px;
+    background-color:red;
+    overflow: auto;
+}
+
 .boat{
+    display: flex;
+}
+
+.headset{
     display: flex;
 }
